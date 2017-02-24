@@ -1,0 +1,8 @@
+<Page>
+    <Page.actionBar>
+        <ActionBar title="NativeScript TextToSpeech" class="action-bar"></ActionBar>
+    </Page.actionBar>
+    <StackLayout>
+        <Button text="Speak" tap="speak" />
+    </StackLayout>
+</Page>
